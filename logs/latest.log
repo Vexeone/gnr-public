@@ -1,0 +1,43 @@
+2022-10-15T01:27:06Z <INFO:emu.grasscutter.utils.Language> Generating TextMaps cache
+2022-10-15T01:27:06Z <INFO:emu.grasscutter.data.ResourceLoader> Загружаем ресурсы...
+2022-10-15T01:27:07Z <INFO:emu.grasscutter.data.ResourceLoader> Загрузка ресурсов завершена.
+2022-10-15T01:27:08Z <INFO:emu.grasscutter.tools.Tools> GM Handbooks generated!
+2022-10-15T01:27:08Z <INFO:emu.grasscutter.Grasscutter> Запускаем Grasscutter...
+2022-10-15T01:27:08Z <INFO:emu.grasscutter.Grasscutter> Версия игры: 3.1.0
+2022-10-15T01:27:08Z <INFO:emu.grasscutter.Grasscutter> Версия Grasscutter: GNR-1.3.2-dev-42522bb6
+2022-10-15T01:27:09Z <INFO:emu.grasscutter.plugin.PluginManager> Загрузка Плагина: opencommand-plugin
+2022-10-15T01:27:09Z <INFO:emu.grasscutter.server.http.HttpServer> [Dispatch] Распределительный Сервер запущен по адресу [1m[33m127.0.0.1:443[0m
+2022-10-15T01:27:09Z <INFO:emu.grasscutter.server.game.GameServer> Grasscutter является БЕСПЛАТНЫМ программным обеспечением. Если вы заплатили за него деньги, то вы были обмануты продавцом. Домашняя страница проекта: https://github.com/Grasscutters/Grasscutter
+2022-10-15T01:27:09Z <INFO:emu.grasscutter.server.game.GameServer> Игровой Сервер запущен по адресу [1m[33m127.0.0.1:22102[0m
+2022-10-15T01:27:09Z <INFO:emu.grasscutter.plugin.PluginManager> Включаем Плагин: opencommand-plugin
+2022-10-15T01:27:09Z <INFO:com.github.jie65535.opencommand.OpenCommandPlugin> [OpenCommand] Enabled
+2022-10-15T01:27:09Z <INFO:emu.grasscutter.Grasscutter> Готово! Для получения помощи, введите "help"
+2022-10-15T01:27:13Z <INFO:emu.grasscutter.Grasscutter> Press Ctrl-C again to shutdown.
+2022-10-15T01:27:13Z <INFO:emu.grasscutter.plugin.PluginManager> Отключаем Плагин: opencommand-plugin
+2022-10-15T01:27:13Z <INFO:com.github.jie65535.opencommand.OpenCommandPlugin> [OpenCommand] Disabled
+2022-10-15T01:27:28Z <INFO:emu.grasscutter.utils.Language> Loading cached TextMaps
+2022-10-15T01:27:28Z <INFO:emu.grasscutter.data.ResourceLoader> Загружаем ресурсы...
+2022-10-15T01:27:29Z <INFO:emu.grasscutter.data.ResourceLoader> Загрузка ресурсов завершена.
+2022-10-15T01:27:29Z <INFO:emu.grasscutter.tools.Tools> GM Handbooks generated!
+2022-10-15T01:27:29Z <INFO:emu.grasscutter.Grasscutter> Запускаем Grasscutter...
+2022-10-15T01:27:29Z <INFO:emu.grasscutter.Grasscutter> Версия игры: 3.1.0
+2022-10-15T01:27:29Z <INFO:emu.grasscutter.Grasscutter> Версия Grasscutter: GNR-1.3.2-dev-42522bb6
+2022-10-15T01:27:30Z <INFO:emu.grasscutter.plugin.PluginManager> Загрузка Плагина: opencommand-plugin
+2022-10-15T01:27:30Z <INFO:emu.grasscutter.server.http.HttpServer> [Dispatch] Распределительный Сервер запущен по адресу [1m[33m127.0.0.1:443[0m
+2022-10-15T01:27:30Z <INFO:emu.grasscutter.server.game.GameServer> Grasscutter является БЕСПЛАТНЫМ программным обеспечением. Если вы заплатили за него деньги, то вы были обмануты продавцом. Домашняя страница проекта: https://github.com/Grasscutters/Grasscutter
+2022-10-15T01:27:30Z <INFO:emu.grasscutter.server.game.GameServer> Игровой Сервер запущен по адресу [1m[33m127.0.0.1:22102[0m
+2022-10-15T01:27:30Z <INFO:emu.grasscutter.plugin.PluginManager> Включаем Плагин: opencommand-plugin
+2022-10-15T01:27:30Z <INFO:com.github.jie65535.opencommand.OpenCommandPlugin> [OpenCommand] Enabled
+2022-10-15T01:27:30Z <INFO:emu.grasscutter.Grasscutter> Готово! Для получения помощи, введите "help"
+2022-10-15T01:27:49Z <INFO:emu.grasscutter.server.http.dispatch.RegionHandler> [Dispatch] Client [0:0:0:0:0:0:0:1] request: query_region_list
+2022-10-15T01:27:57Z <INFO:emu.grasscutter.auth.DefaultAuthenticators$PasswordAuthenticator> [Dispatch] Клиент [0:0:0:0:0:0:0:1] вошел как 10001.
+2022-10-15T01:27:57Z <INFO:emu.grasscutter.server.http.dispatch.DispatchHandler> [Dispatch] Клиент [0:0:0:0:0:0:0:1] пытается войти.
+2022-10-15T01:27:57Z <INFO:emu.grasscutter.auth.DefaultAuthenticators$SessionKeyAuthenticator> [Dispatch] Клиент [0:0:0:0:0:0:0:1] произвёл успешный обмен комбинированного токена.
+2022-10-15T01:27:57Z <INFO:emu.grasscutter.server.http.dispatch.DispatchHandler> [Dispatch] Клиент [0:0:0:0:0:0:0:1] пытается войти.
+2022-10-15T01:27:57Z <INFO:emu.grasscutter.server.http.dispatch.RegionHandler> Client 127.0.0.1 request: query_cur_region/os_usa
+2022-10-15T01:28:10Z <INFO:emu.grasscutter.server.game.GameSession> Клиент подключился с /127.0.0.1:62198
+2022-10-15T01:28:11Z <INFO:emu.grasscutter.game.activity.ActivityManager> Enable 1 activities.
+2022-10-15T01:28:37Z <INFO:emu.grasscutter.Grasscutter> Press Ctrl-C again to shutdown.
+2022-10-15T01:28:37Z <INFO:emu.grasscutter.plugin.PluginManager> Отключаем Плагин: opencommand-plugin
+2022-10-15T01:28:37Z <INFO:emu.grasscutter.server.game.GameSession> Клиент отсоединился с /127.0.0.1:62198
+2022-10-15T01:28:37Z <INFO:com.github.jie65535.opencommand.OpenCommandPlugin> [OpenCommand] Disabled
